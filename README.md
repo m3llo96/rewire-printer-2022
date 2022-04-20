@@ -29,6 +29,14 @@ Add-Printer -Name Operations -DriverName “Kyocera ECOSYS M3645idn XPS” -Port
 
 
 
+# drop the drivers at:
+C:\Windows\System32\DriverStore\FileRepository
+
+.
+
+
+.
+
 
 search for printer ports:
 
